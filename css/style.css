@@ -10,3 +10,6 @@ li{
 a{
 	display:block; padding:10px
 }
+li a:hover {
+  background-color: lightgrey;
+}

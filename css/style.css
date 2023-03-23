@@ -1,12 +1,12 @@
 body{
-  			background-color:grey;
-		}
+	background-color:grey;
+}
 ul{
-			list-style-type: none; margin:0; padding:0
-		}
+	list-style-type: none; margin:0; padding:0
+}
 li{
-			float:left; background-color:black; display:inline
-		}
+	float:left; background-color:black; display:inline
+}
 a{
-			display:block; padding:10px
-		}
+	display:block; padding:10px
+}

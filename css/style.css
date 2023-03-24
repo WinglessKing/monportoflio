@@ -3,12 +3,12 @@ body{
 }
 
 h1{
-	font-size:75px
+	font-size:75px;
+	text-align:center
 }
 
 img{
 	padding:10px;
-	text-align:center
 }
 
 

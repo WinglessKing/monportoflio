@@ -16,11 +16,11 @@ div ul{
 	color: white;
 }
 
-li{
+div li{
 	float:left; background-color:black; display:inline
 }
 
-a{
+div a{
 	display:block;
 	padding:10px;
 	text-align: center;
@@ -28,6 +28,6 @@ a{
   	text-decoration: none;
 }
 		
-li a:hover {
+div li a:hover {
   background-color: lightgrey;
 }

@@ -6,7 +6,7 @@ img{
 	padding:10px
 }
 
-ul.nav{
+ul div{
 	list-style-type: none;
 	margin:0;
 	padding:0;
@@ -15,11 +15,11 @@ ul.nav{
 	color: white;
 }
 
-li.nav{
+li div{
 	float:left; background-color:black; display:inline
 }
 
-li.nav {
+li div{
 	display:block;
 	padding:10px;
 	text-align: center;
@@ -27,6 +27,6 @@ li.nav {
   	text-decoration: none;
 }
 		
-li.nav a:hover {
+li div a:hover {
   background-color: lightgrey;
 }

@@ -7,7 +7,8 @@ h1{
 }
 
 img{
-	padding:10px
+	padding:10px;
+	text-align:center
 }
 
 
@@ -15,9 +16,9 @@ nav ul{
 	list-style-type: none;
 	margin:0;
 	padding:0;
-	overflow: hidden;
-  	background-color: black;
-	color: white;
+	overflow:hidden;
+  	background-color:black;
+	color:white;
 }
 
 nav li{
@@ -29,7 +30,7 @@ a{
 	padding:10px;
 	text-align: center;
   	padding: 14px 16px;
-  	text-decoration: none;
+  	text-decoration:none;
 }
 		
 li a:hover {

@@ -19,7 +19,7 @@ li.nav{
 	float:left; background-color:black; display:inline
 }
 
-li.nav a{
+li.nav.a{
 	display:block;
 	padding:10px;
 	text-align: center;
@@ -27,6 +27,6 @@ li.nav a{
   	text-decoration: none;
 }
 		
-li.nav a:hover {
+li.nav.a:hover {
   background-color: lightgrey;
 }

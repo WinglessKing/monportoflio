@@ -19,7 +19,7 @@ li.nav{
 	float:left; background-color:black; display:inline
 }
 
-li.nav a{
+li.nav {
 	display:block;
 	padding:10px;
 	text-align: center;

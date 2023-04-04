@@ -1,5 +1,8 @@
 body{
 	background-color:grey;
+	border-right-style:5px solid black;
+	border-left-style:5px solid black;
+	
 }
 
 h1{

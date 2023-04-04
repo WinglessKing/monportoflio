@@ -10,7 +10,7 @@ h1{
 img{
 	padding:10px;
 	margin:auto;
-	border:5px black;
+	border:5px solid black;
 }
 
 nav ul{
@@ -39,7 +39,7 @@ li a:hover {
 }
 
 #section1{
-	margin-top:25px
+	margin-bottom:25px
 }
 #section1 img{
 	float:right;
@@ -49,9 +49,12 @@ li a:hover {
 }
 
 #section2{
-	margin-top:25px
+	margin-top:75px
 }
 #section2 img{
 	margin-right:15px;
 	float:left;
+	width:450px;
+	height:400px;
+	margin-left:15px;
 }

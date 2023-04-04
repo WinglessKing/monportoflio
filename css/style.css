@@ -4,6 +4,9 @@ body{
 	border-left-style:5px solid black;
 	
 }
+p{
+	font-size: 125%;
+}
 
 h1{
 	font-size:75px;

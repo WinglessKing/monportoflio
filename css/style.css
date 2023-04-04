@@ -37,9 +37,7 @@ li a:hover {
   background-color: lightgrey;
 }
 
-#section2{
-	img{
-		float:left;
-		margin-right:15px;
-	}
+#section2 img{
+	float:left;
+	margin-right:15px
 }

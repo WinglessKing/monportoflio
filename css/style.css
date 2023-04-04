@@ -36,3 +36,10 @@ a{
 li a:hover {
   background-color: lightgrey;
 }
+
+aside a{
+	float: left
+}
+aside a{
+	float: right
+}

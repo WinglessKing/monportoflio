@@ -4,12 +4,16 @@ body{
 	border-left-style:5px solid black;
 }
 
-.row {
-  display: flex;
+.column {
+  float: left;
 }
 
-.column {
-  flex: 50%;
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
 }
 
 

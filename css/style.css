@@ -4,6 +4,15 @@ body{
 	border-left-style:5px solid black;
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+
 p{
 	font-size: 175%;
 	text-align:justify;

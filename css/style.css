@@ -41,6 +41,10 @@ h1{
 	text-align:center;
 }
 
+div.img{
+	height:200px;
+}
+
 img{
 	margin:auto;
 	border:5px #32373B;

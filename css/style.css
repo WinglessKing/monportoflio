@@ -10,7 +10,7 @@ p{
 
 h1{
 	font-size:75px;
-	text-align:justify;
+	text-align:center;
 }
 
 img{
@@ -42,6 +42,9 @@ a{
 li a:hover {
   background-color: lightgrey;
 }
+
+
+
 
 #section1{
 	margin-bottom:50px

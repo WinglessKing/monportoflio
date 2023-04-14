@@ -12,7 +12,7 @@ nav li{
 	float:left; background-color:#5A707E; display:inline
 }
 
-nav a{
+a{
 	display:block;
 	padding:10px;
 	text-align: center;

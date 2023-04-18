@@ -18,6 +18,7 @@ a{
 	text-align: center;
   	padding: 14px 16px;
   	text-decoration:none;
+	font-size: 20px;
 }
 		
 li a:hover {
@@ -28,8 +29,6 @@ li a:hover {
 body{
 	background-color:#668192;
 	padding: 10px;
-	border-right-style:5px solid black;
-	border-left-style:5px solid black;
 }
 
 p{

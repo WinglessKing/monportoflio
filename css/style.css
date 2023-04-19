@@ -51,6 +51,7 @@ img{
 
 /*Layout*/
 
+/*Form*/
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
@@ -63,7 +64,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #32373B;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -72,7 +73,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #3C454B;
 }
 
 /* Left column */

@@ -108,6 +108,13 @@ input[type=button]:hover {
   float: left;
   width: 60%;
 }
+.img{
+	height:350px;
+	width:350px;
+	margin:auto;
+	padding:20px;
+	border:5px #32373B;
+}
 
 /* Right column */
 .rightcolumn {

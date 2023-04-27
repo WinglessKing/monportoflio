@@ -113,6 +113,10 @@ input[type=button]:hover {
   clear: both;
 }
 
+#picture1{
+	width:950px;
+}
+
 #section1{
 	margin-bottom:50px
 }

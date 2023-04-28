@@ -4,12 +4,12 @@ nav ul{
 	margin:0;
 	padding:0;
 	overflow:hidden;
-  	background-color:#5A707E;
-	color:#5A707E;
+  	background-color:#668192;
+	color:#668192;
 }
 
 nav li{
-	float:left; background-color:#5A707E; display:inline
+	float:left; background-color:#668192; display:inline
 }
 
 a{
@@ -27,7 +27,7 @@ li a:hover {
 
 /*Body*/
 body{
-	background-color:#668192;
+	background-color:#5A707E;
 	padding: 10px;
 }
 

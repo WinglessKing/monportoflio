@@ -86,11 +86,11 @@ input[type=button]:hover {
   width: 60%;
 }
 .img{
-	height:8500px;
-	width:900px;
+	height:auto;
+	width:auto;
 	margin:auto;
-	padding:20px;
-	border:2.5px #32373B;
+	padding:15px;
+	border:2px #32373B;
 	float: center;
 }
 .wideimage{

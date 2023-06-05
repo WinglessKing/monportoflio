@@ -87,10 +87,11 @@ input[type=button]:hover {
 }
 .img{
 	height:700px;
-	width:750px;
+	width:900px;
 	margin:auto;
 	padding:20px;
 	border:5px #32373B;
+	float: center;
 }
 .wideimage{
 height:325px;

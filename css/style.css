@@ -86,8 +86,8 @@ input[type=button]:hover {
   width: 60%;
 }
 .img{
-	height:600px;
-	width:650px;
+	height:700px;
+	width:750px;
 	margin:auto;
 	padding:20px;
 	border:5px #32373B;
@@ -126,8 +126,8 @@ height:325px;
 
 #section1 img{
 	float:right;
-	width:500px;
-	height:550px;
+	width:450px;
+	height:400px;
 	margin-left:15px;
 	margin-bottom:20px;
 }

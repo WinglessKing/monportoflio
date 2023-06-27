@@ -1,7 +1,7 @@
 function myFunction() {
   var colon = document.getElementById("colon");
   var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
+  var btnText = document.getElementById("readMoreBtn");
 
   if (colon.style.display === "none") {
     colon.style.display = "inline";

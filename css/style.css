@@ -143,4 +143,9 @@ height:325px;
 	height:400px;
 	margin-left:15px;
 }
-#more {display: none;}
+#more{
+	display: none;
+}
+#myBtn{ 
+	background-color: #3C454B
+}

@@ -147,5 +147,11 @@ height:325px;
 	display: none;
 }
 #myBtn{ 
-	background-color: #3C454B
+	border: none;
+	background-color: #5A707E;
+	color: black;
+	display: inline-block;
+	font-size: 20px;
+	margin: 4px 2px;
+	cursor: pointer;
 }

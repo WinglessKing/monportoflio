@@ -32,7 +32,7 @@ ul {
 p{
 	font-size: 175%;
 	text-align:justify;
-	text-color: #989898;/*Grey*/
+	color: Grey;
 }
 
 h1{
@@ -75,20 +75,6 @@ img:hover {
   line-height: 75px;
   font-size: 30px;
 }
-
-/*card effect*/
-.card {
-  background-color: #1D1D1;
-  padding: 15px;
-  margin-top: 20px;
-}
-
-.row::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 #more{
 	display: none;
 }

@@ -43,11 +43,14 @@ font-size: 16px;
 }
 
 /*Layout*/
-.flex-container {	
+.flex-container {
+  color: black;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center	
+  align-content: flex-start;
+  align-items: center;
+  padding: 80px 48px;
 }
 
 .flex-container > div {

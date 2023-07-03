@@ -26,9 +26,12 @@ li a:hover {
 }
 
 /*Social Links*/
-#socials {
+socials img {
 	width:24px;
 	height:24px;
+}
+socials ul {
+	list-style-type: none;
 }
 /*
 .icon {

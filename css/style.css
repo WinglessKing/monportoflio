@@ -61,9 +61,11 @@ img:hover {
 }
 
 /*Layout*/
-.flex-container {
+.flex-container {	
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+	align-content: center;
+	 overflow: scroll;
   flex-flow: row wrap;
   background-color: #1D1D1;
 }

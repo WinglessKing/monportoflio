@@ -58,7 +58,7 @@ img{
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 60%;
+  width: 45%;
 }
 .img{
 	height:auto;
@@ -74,7 +74,7 @@ height:325px;
 /* Right column */
 .rightcolumn {
   float: right;
-  width: 35%;
+  width: 55%;
   background-color: #5A707E;
 }
 

@@ -9,7 +9,8 @@ nav ul{
 }
 
 nav li{
-	float:left; background-color:#668192; display:inline
+	float:left; 
+	background-color:#668192;
 }
 
 a{

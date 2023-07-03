@@ -60,17 +60,7 @@ img{
   float: left;
   width: 45%;
 }
-.img{
-	height:auto;
-	width:auto;
-	margin:auto;
-	padding:15px;
-	border:2px #32373B;
-	float: center;
-}
-.wideimage{
-height:325px;
-}
+
 /* Right column */
 .rightcolumn {
   float: right;
@@ -85,39 +75,12 @@ height:325px;
   margin-top: 20px;
 }
 
-
 .row::after {
   content: "";
   display: table;
   clear: both;
 }
 
-#picture1{
-	width:950px;
-}
-
-#section1{
-	margin-bottom:50px
-}
-
-#section1 img{
-	float:right;
-	width:450px;
-	height:400px;
-	margin-left:15px;
-	margin-bottom:20px;
-}
-
-#section2{
-	margin-top:250px
-}
-#section2 img{
-	margin-right:15px;
-	float:left;
-	width:450px;
-	height:400px;
-	margin-left:15px;
-}
 #more{
 	display: none;
 }

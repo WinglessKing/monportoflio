@@ -40,11 +40,33 @@ h1, h2, h3, h4, p{
 	color: Grey;
 }
 
-
-
 footer{
 font-size: 16px;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width:24px; height:24px"
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #007bb5;
+  color: white;
+}
+
 
 /*Layout*/
 .flex-container {

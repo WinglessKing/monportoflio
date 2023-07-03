@@ -5,8 +5,7 @@ nav ul{
 	margin:0;
 	padding:0;
 	overflow:hidden;
-  	background-color:#5A707E;
-	color:#668192;
+	color:#2272FF; /*Neon Blue*/
 }
 
 a{
@@ -23,7 +22,7 @@ li a:hover {
 
 /*Body*/
 body{
-	background-color:#5A707E;
+	background-color:#1D1D1;/*Black*/
 	padding: 10px;
 }
 ul {
@@ -33,6 +32,8 @@ ul {
 p{
 	font-size: 175%;
 	text-align:justify;
+	text-color: #989898;
+;
 }
 
 h1{
@@ -71,17 +72,17 @@ img:hover {
 .rightcolumn {
   float: right;
   width: 75%;
-  background-color: #5A707E;
+  background-color: #2272FF;
 }
 
 /*card effect*/
 .badge {
-  background-color: #50626D;
+  background-color: #1D1D1;
   padding: 15px;
   margin-top: 20px;
 }
 .card {
-  background-color: #50626D;
+  background-color: #1D1D1;
   padding: 15px;
   margin-top: 20px;
 }
@@ -97,7 +98,7 @@ img:hover {
 }
 #readMoreBtn{ 
 	border: none;
-	background-color: #5A707E;
+	background-color: #2272FF;
 	color: black;
 	display: inline-block;
 	font-size: 20px;

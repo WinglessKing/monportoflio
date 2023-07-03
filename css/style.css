@@ -51,7 +51,7 @@ font-size: 16px;
 }
 
 .flex-container > div {
-  background-color: black;
+  background-color: dark grey;
   width: 100px;
   margin: 10px;
   text-align: center;

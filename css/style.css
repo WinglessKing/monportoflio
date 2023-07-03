@@ -22,11 +22,12 @@ li a:hover {
 
 /*Body*/
 body{
-	background-color:#1D1D1;/*Black*/
+	background-color:black;
 	padding: 10px;
 }
 ul {
 	list-style-type: none;
+	
 }
 
 p{

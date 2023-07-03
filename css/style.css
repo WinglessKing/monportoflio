@@ -25,8 +25,12 @@ li a:hover {
   background-color: #3C454B;
 }
 
-/*Social Links
-24px
+/*Social Links*/
+socials.img {
+	width:24px;
+	height:24px;
+}
+/*
 .icon {
   padding: 20px;
   font-size: 30px;

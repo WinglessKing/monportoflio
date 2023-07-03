@@ -63,6 +63,7 @@ img:hover {
 /*Layout*/
 .flex-container {
   display: flex;
+  justify-content: center;
   flex-flow: row wrap;
   background-color: #1D1D1;
 }

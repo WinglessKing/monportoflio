@@ -6,50 +6,40 @@
       <link rel="stylesheet" href="css/style.css">
    </head>
    <body>
-     
       <div class="row">
-      <div class="leftcolumn">
-         <div class="card"> 
-            <h1>Adrey'n Lewis</h1>
-            <h2>Kennesaw State 24'</h2>
-            <p>I am a student pursuing a BS in Information Technology and enjoy staying up to date on new technologies</p>
-             <nav>
-         <ul>
-            <li><a href ="#about">About Me</a></li>
-            <li><a href ="#experience">Work Experience</a></li>
-            <li><a href ="projects.html">Project Blog</a></li>
-         </ul>
-      </nav>
+         <div class="leftcolumn">
+            <div class="badge"> 
+               <h1>Adrey'n Lewis</h1>
+               <h2>Kennesaw State 24'</h2>
+               <p>I am a student pursuing a BS in Information Technology and enjoy staying up to date on new technologies</p>
+                <nav>
+            <ul>
+               <li><a href ="#about">About Me</a></li>
+               <li><a href ="#experience">Work Experience</a></li>
+               <li><a href ="projects.html">Project Blog</a></li>
+            </ul>
+         </nav>
+            </div>
+         </div>
+         <div class="rightcolumn"> <!-- Main Content-->
+            <section id="about">
+                  <h2>About</h2>
+                  <p>Short Summary(How I started, what I study now, Hobbies)</p>
+            </section>
+            <section id="experience">
+                  <p>List Resume experiences out</p>
+                  <a style="font-size: 20px" href="assets/Resumev2.pdf">View Full Resume</a>
+            </section>
+            <section id="projects">
+               <div class="card">
+                     <h3><a href ="projects.html">Project Blog</a>Rasberry Pi NAS</h3>
+                     <h4>May 2023</h4>
+                     <a target="_blank" href="img_forest.jpg">
+                        <img src="assets/IMG_7823.jpg" alt="Picture of RaspberryPi case"">
+                     </a>
+               </div>  
+            </section>
          </div>
       </div>
-      <div class="rightcolumn">
-         <div class="card">
-            <div class="about">
-               <p>Short Summary(How I started, what I study now, Hobbies)</p>
-            </div>
-            <div class="experience">
-               <p>List Resume experiences out</p>
-               <a style="font-size: 20px" href="assets/Resumev2.pdf">View Full Resume</a>
-            </div>
-            <div class="projects">
-               <h2>Rasberry Pi NAS</h2>
-               <h3>May 2023</h3>
-               <div class="img"><img src="assets/IMG_7823.jpg" alt="Picture of RaspberryPi case""></div>
-               <p>My First Project<span id="colon">:</span></p> 
-               <button onclick="myFunction()" id="readMoreBtn">Read more</button>
-               <span id="more"><p>For an entire year, I kept a close eye on websites that were approved RaspberryPi resellers hoping to find a kit in stock and go through with the project. This past May I was able to go through with the project after purchasing the CanaKit 4GB Extreme Kit. The kit included the board, case, an SD card reader, an SD card preloaded with NOOBS(New Out Of Box Software), and 2 Micro HDMI cords. After a brief and simple assembly, I plugged it into my monitor and started the configuration.</p>
-               <div class="img"><img src="assets/RaspberryPi Setup.png" alt="Picture of RaspberryPi Setup"></div>
-               <p>In the image above, I updated the software to its most recent release. I ended up misspelling one of the commands in my excitement.<p>
-            <div class="img"><img src="assets/IMG_7822.jpg" alt="Picture of RaspberryPi Case"></div>
-               <p>With everything configured, all that was needed was an ethernet connection and an SSD to function as the storage device and boom, it was finished and on my network.<p>
-            <div class="img"><img src="assets/NASProof.png" alt="NAS Proof"></div>
-                <p>This was entertaining beyond belief. Whenever I struggle with a new project, be it code or hardware, it is much more satisfying to see it work well at the end.<p>
-               </span>
-            </div>
-             
-         </div>
-      </div>
-   </div>
-      
-     </body>
+   </body>
 </html>

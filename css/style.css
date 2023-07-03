@@ -1,5 +1,6 @@
 /*Navbar*/
 nav ul{
+	float:left; 
 	list-style-type: none;
 	margin:0;
 	padding:0;
@@ -9,7 +10,6 @@ nav ul{
 }
 
 nav li{
-	float:left; 
 	background-color:#668192;
 }
 
@@ -26,6 +26,7 @@ li a:hover {
 }
 
 /*Social Links
+24px
 .icon {
   padding: 20px;
   font-size: 30px;

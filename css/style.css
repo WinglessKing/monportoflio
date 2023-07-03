@@ -57,13 +57,13 @@ h2{
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 45%;
+  width: 20%;
 }
 
 /* Right column */
 .rightcolumn {
   float: right;
-  width: 55%;
+  width: 80%;
   background-color: #5A707E;
 }
 

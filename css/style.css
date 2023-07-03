@@ -32,7 +32,7 @@ ul {
 p{
 	font-size: 175%;
 	text-align:justify;
-	text-color: #989898;
+	text-color: #989898;/*Grey*/
 ;
 }
 
@@ -49,6 +49,7 @@ h2{
 footer{
 font-size: 16px;
 }
+
 /*Project Blog Formatting*/
 .img {
   border: 1px solid #ddd; /* Gray border */
@@ -65,13 +66,13 @@ img:hover {
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 25%;
+  width: 50%;
 }
 
 /* Right column */
 .rightcolumn {
   float: right;
-  width: 75%;
+  width: 50%;
   background-color: #2272FF;
 }
 

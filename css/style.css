@@ -48,7 +48,7 @@ font-size: 16px;
 
 /*Layout*/
 .flex-container {
-  color: black;
+  background-color: black;
   display: flex;
   flex-direction: row;
   justify-content: space-between;

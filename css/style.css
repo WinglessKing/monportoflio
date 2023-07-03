@@ -56,7 +56,7 @@ img:hover {
 /*Layout*/
 .flex-container {	
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 	align-content: center;
 	 overflow: scroll;
   flex-flow: row wrap;
@@ -71,6 +71,7 @@ img:hover {
   line-height: 75px;
   font-size: 30px;
 }
+
 #more{
 	display: none;
 }

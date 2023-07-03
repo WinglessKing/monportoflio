@@ -68,6 +68,11 @@ h2{
 }
 
 /*card effect*/
+.badge {
+  background-color: #50626D;
+  padding: 15px;
+  margin-top: 20px;
+}
 .card {
   background-color: #50626D;
   padding: 15px;

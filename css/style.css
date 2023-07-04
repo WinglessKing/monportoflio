@@ -21,6 +21,10 @@ li a:hover {
   background-color: #3C454B;
 }
 
+li img{
+	width:150px;
+}
+
 /* Layout */
 .row {  
   display: flex;

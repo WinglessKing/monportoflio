@@ -62,7 +62,7 @@ li a:hover {
 }
 .badge {
   flex: 30%;
-  background-color: #grey;
+  background-color: grey;
   padding: 20px;
 }
 .main {

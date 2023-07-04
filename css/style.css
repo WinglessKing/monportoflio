@@ -59,12 +59,12 @@ font-size: 16px;
 }
 
 .fa-linkedin {
-  background: #007bb5;
+  background: black;
   color: white;
 }
 
 .fa-github {
-  background: #007bb5;
+  background: black;
   color: white;
 }
 
@@ -80,7 +80,15 @@ font-size: 16px;
   padding: 80px 48px;
 }
 
-.flex-container > div {
+.flex-container > badge {
+  background-color: grey;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.flex-container > rightcolumn {
   background-color: grey;
   width: 100px;
   margin: 10px;

@@ -32,6 +32,11 @@ li a:hover {
   background-color: black;
   padding: 20px;
 }
+.card {
+  align-items: stretch;
+  background-color: black;
+  padding: 20px;	
+}
 .main {
   flex: 70%;
   background-color: black;

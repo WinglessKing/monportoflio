@@ -21,10 +21,15 @@ li a:hover {
   background-color: #3C454B;
 }
 
-/* Column container */
+/* Layout */
 .row {  
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+}
+.column {  
+  display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
 }
 .badge {
@@ -33,8 +38,8 @@ li a:hover {
   padding: 20px;
 }
 .card {
-	flex: 70%;
-  align-items: stretch;
+  flex: 70%;
+  /*align-items: stretch;*/
   background-color: black;
   padding: 20px;	
 }

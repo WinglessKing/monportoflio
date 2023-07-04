@@ -21,11 +21,12 @@ li a:hover {
   background-color: #3C454B;
 }
 
-/*Body*/
+/*Body
 body{
 	background-color: white;
 	padding: 10px;
 }
+*/
 ul {
 	list-style-type: none;
 	display:inline-block;
@@ -77,7 +78,6 @@ font-size: 16px;
   justify-content: space-between;
   align-content: flex-start;
   align-items: flex-start;
-  padding: 80px 48px;
 }
 
 .flex-container > badge {

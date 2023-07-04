@@ -50,14 +50,9 @@ li a:hover {
 */
 
 /* Column container */
-@media screen and (max-width: 700px) {
-  .row, .navbar {   
-    flex-direction: row;
-  }
-}
-
 .row {  
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
 }
 .badge {
@@ -71,6 +66,11 @@ li a:hover {
   padding: 20px;
 }
 
+@media (max-width: 800px) {
+  .badge, .main {   
+    flex:100%
+  }
+}
 /*General Formats*/
 ul {
 	list-style-type: none;

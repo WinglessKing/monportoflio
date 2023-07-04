@@ -33,6 +33,7 @@ li a:hover {
   padding: 20px;
 }
 .card {
+	flex: 70%;
   align-items: stretch;
   background-color: black;
   padding: 20px;	

@@ -56,7 +56,7 @@ li a:hover {
   flex-wrap: wrap;
 }
 .badge {
-  flex: 30%;
+  flex: 20%;
   background-color: black;
   padding: 20px;
 }
